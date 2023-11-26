@@ -5,3 +5,11 @@ O projeto conversão de temperatura é um projeto desenvolvido em NodeJS. O proj
 
 ### Observações do projeto
 A aplicação é exposta usando a porta 8080
+
+### Instalação e execução
+
+Necessário Node.js
+
+Dentro da pasta src, execute:
+
+npm install
