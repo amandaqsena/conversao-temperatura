@@ -12,4 +12,12 @@ Necessário Node.js
 
 Dentro da pasta src, execute:
 
+```
 npm install
+```
+
+Depois disso, execute:
+
+```
+node server.js
+```
