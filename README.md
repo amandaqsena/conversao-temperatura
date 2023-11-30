@@ -21,3 +21,13 @@ Depois disso, execute:
 ```
 node server.js
 ```
+
+## Usando Docker
+
+docker build -t conversao .
+
+docker container run -t conversao-temperatura
+
+ou 
+
+docker build -t amandaqsena/conversao-temperatura:v1
