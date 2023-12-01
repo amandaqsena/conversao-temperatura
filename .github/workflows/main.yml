@@ -44,7 +44,6 @@ jobs:
             file: ./src/Dockerfile
             push: true
             tags: |
-              amandaqsena/conversao-temperatura:v1
               amandaqsena/conversao-temperatura:latest
 
 
