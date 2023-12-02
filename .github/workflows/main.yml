@@ -53,6 +53,7 @@ jobs:
             file: ./src/Dockerfile
             push: true
             tags: |
+              amandaqsena/conversao-temperatura:${{github.run_number}}
               amandaqsena/conversao-temperatura:latest
 
 
