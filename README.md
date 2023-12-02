@@ -1,5 +1,7 @@
 # Projeto conversão de temperatura
 
+[![CI](https://github.com/amandaqsena/conversao-temperatura/actions/workflows/main.yml/badge.svg)](https://github.com/amandaqsena/conversao-temperatura/actions/workflows/main.yml)
+
 ### Sobre o projeto
 O projeto conversão de temperatura é um projeto desenvolvido em NodeJS. O projeto tem como objetivo ser um exemplo para a criação de ambiente com containers usando NodeJS.
 
